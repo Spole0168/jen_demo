@@ -32,7 +32,7 @@
 
     <!-- Package as an executable jar -->
       <build>
-        <finalName>ch1.helloworld</finalName> <!-- 指定package生成的文件名为opas-node-page -->
+        <finalName>helloworld</finalName> <!-- 指定package生成的文件名为opas-node-page -->
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
