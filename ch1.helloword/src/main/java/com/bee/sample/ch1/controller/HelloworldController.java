@@ -21,6 +21,6 @@ public class HelloworldController {
 	@Function()
 	public @ResponseBody String say(String name){
 		String currentDTStr = new SimpleDateFormat("yyyy-MM-dd HH:mm:ss").format(new Date());
-		return "hello "+ currentDTStr+"\t  \n name = " +name;
+		return "99999----hello "+ currentDTStr+"\t SSSSSSS \n name = " +name;
 	}
 }
